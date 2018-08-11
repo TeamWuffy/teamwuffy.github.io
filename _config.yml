@@ -1,1 +1,12 @@
+#Basic settings
 theme: jekyll-theme-cayman
+title: Wuffy
+author: NgLoader
+email: cavefinderhd@gmail.com
+description: Wuffy is a normal discord bot
+twitter_username: NgLoader
+github_username: NgLoader
+
+#Builld settings
+markdown: kramdown
+theme: minima
